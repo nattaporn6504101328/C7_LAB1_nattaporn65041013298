@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{4197F16D-6604-5020-12BB-37E84911E472}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp-Editor", "Assembly-CSharp-Editor.csproj", "{F0222A9B-29C9-4347-36C5-5A7BA4EC956A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebXRInputProfile.Viewer", "WebXRInputProfile.Viewer.csproj", "{1AEB9CFA-A53C-AEB7-C555-7620AC560AA7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4197F16D-6604-5020-12BB-37E84911E472}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4197F16D-6604-5020-12BB-37E84911E472}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4197F16D-6604-5020-12BB-37E84911E472}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4197F16D-6604-5020-12BB-37E84911E472}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F0222A9B-29C9-4347-36C5-5A7BA4EC956A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F0222A9B-29C9-4347-36C5-5A7BA4EC956A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F0222A9B-29C9-4347-36C5-5A7BA4EC956A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F0222A9B-29C9-4347-36C5-5A7BA4EC956A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1AEB9CFA-A53C-AEB7-C555-7620AC560AA7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1AEB9CFA-A53C-AEB7-C555-7620AC560AA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1AEB9CFA-A53C-AEB7-C555-7620AC560AA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1AEB9CFA-A53C-AEB7-C555-7620AC560AA7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

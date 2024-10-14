@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/Scenes/Samples/WebXR Interactions/0.22.0/Sample Scene/Scenes/Desert.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
